@@ -10,4 +10,8 @@ Currently, two official plugins are available:
 =======
 # SimpleChatBot
 Simple Chat bot using gemini api
->>>>>>> dbc39525ddc764d46e10e9fb73e795d62fdd3830
+
+
+## Live Demo
+Visit the live site here: [https://nirajsimplechatbot.netlify.app/](https://nirajsimplechatbot.netlify.app/)
+
